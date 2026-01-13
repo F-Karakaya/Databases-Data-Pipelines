@@ -1,0 +1,32 @@
+{
+    "text_search_example": [
+        {
+            "product_id": "PROD-888",
+            "description": "Wireless noise-canceling headphones with long battery life.",
+            "category": "Electronics",
+            "similarity_score": 0.854,
+            "reason": "Matched content description"
+        },
+        {
+            "product_id": "PROD-999",
+            "description": "High-end smartphone with OLED display and 5G connectivity.",
+            "category": "Electronics",
+            "similarity_score": 0.621,
+            "reason": "Matched content description"
+        }
+    ],
+    "user_profile_example": [
+        {
+            "product_id": "PROD-123",
+            "description": "Science fiction novel about interstellar travel and AI ethics.",
+            "score": 0.912,
+            "reason": "Based on aggregate user history"
+        },
+        {
+            "product_id": "PROD-124",
+            "description": "Cookbook featuring 100 vegan recipes for beginners.",
+            "score": 0.412,
+            "reason": "Based on aggregate user history"
+        }
+    ]
+}

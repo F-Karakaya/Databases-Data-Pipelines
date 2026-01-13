@@ -1,0 +1,16 @@
+event_id,user_id,event_type,timestamp,product_id,category,device,session_duration
+EVT-1001,USR-505,view_item,2024-01-20 10:01:23,PROD-999,Electronics,Mobile,12
+EVT-1002,USR-505,add_to_cart,2024-01-20 10:02:15,PROD-999,Electronics,Mobile,
+EVT-1003,USR-602,view_item,2024-01-20 10:05:00,PROD-123,Books,Desktop,45
+EVT-1004,USR-710,search,2024-01-20 10:06:30,,Home_Garden,Tablet,
+EVT-1005,USR-505,purchase,2024-01-20 10:08:45,PROD-999,Electronics,Mobile,
+EVT-1006,USR-888,view_item,2024-01-20 10:10:10,PROD-456,Clothing,Desktop,30
+EVT-1007,USR-888,view_item,2024-01-20 10:12:00,PROD-457,Clothing,Desktop,25
+EVT-1008,USR-999,view_item,2024-01-20 10:15:00,PROD-789,Sports,Mobile,15
+EVT-1009,USR-602,view_item,2024-01-20 10:16:20,PROD-124,Books,Desktop,60
+EVT-1010,USR-602,add_to_cart,2024-01-20 10:17:30,PROD-124,Books,Desktop,
+EVT-1011,USR-710,view_item,2024-01-20 10:20:00,PROD-321,Garden,Tablet,10
+EVT-1012,USR-505,view_item,2024-01-20 11:00:00,PROD-888,Electronics,Mobile,20
+EVT-1013,USR-303,login,2024-01-20 11:01:00,,,Desktop,
+EVT-1014,USR-303,view_item,2024-01-20 11:02:15,PROD-555,Automotive,Desktop,120
+EVT-1015,USR-303,purchase,2024-01-20 11:05:00,PROD-555,Automotive,Desktop,

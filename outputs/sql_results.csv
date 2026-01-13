@@ -1,0 +1,18 @@
+sensor_id,reading_date,avg_reading,unit
+SN-001,2024-01-20,23.15,celcius
+SN-002,2024-01-20,45.05,humidity_percent
+SN-003,2024-01-20,1013.20,hpa
+SN-004,2024-01-20,0.50,motion_binary
+
+sensor_id,timestamp,reading,moving_avg_3_periods
+SN-001,2024-01-20 10:00:00,23.5,23.50
+SN-001,2024-01-20 10:05:00,23.8,23.65
+SN-001,2024-01-20 10:10:00,24.1,23.80
+
+sensor_id,location,model
+SN-001,Warehouse-A,TempX-2000
+SN-004,Entrance-Main,MotionSense-Pro
+
+hour_of_day,reading_count
+10,8
+11,2

@@ -1,0 +1,20 @@
+[
+    {
+        "product_id": "PROD-789",
+        "description": "Professional tennis racket, lightweight carbon fiber.",
+        "category": "Sports",
+        "score": 0.8912
+    },
+    {
+        "product_id": "PROD-456",
+        "description": "Men's cotton t-shirt, breathable fabric, blue color.",
+        "category": "Clothing",
+        "score": 0.7205
+    },
+    {
+        "product_id": "PROD-888",
+        "description": "Wireless noise-canceling headphones with long battery life.",
+        "category": "Electronics",
+        "score": 0.6124
+    }
+]

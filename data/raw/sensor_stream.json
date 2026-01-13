@@ -1,0 +1,98 @@
+[
+  {
+    "sensor_id": "SN-001",
+    "timestamp": "2024-01-20T10:00:00Z",
+    "reading": 23.5,
+    "unit": "celcius",
+    "location": "Warehouse-A",
+    "status": "active",
+    "metadata": {
+      "firmware": "v1.2",
+      "model": "TempX-2000"
+    }
+  },
+  {
+    "sensor_id": "SN-002",
+    "timestamp": "2024-01-20T10:00:05Z",
+    "reading": 45.2,
+    "unit": "humidity_percent",
+    "location": "Warehouse-A",
+    "status": "active",
+    "metadata": {
+      "firmware": "v1.2",
+      "model": "HumidY-500"
+    }
+  },
+  {
+    "sensor_id": "SN-003",
+    "timestamp": "2024-01-20T10:00:10Z",
+    "reading": 1013.2,
+    "unit": "hpa",
+    "location": "Warehouse-B",
+    "status": "active",
+    "metadata": {
+      "firmware": "v1.0",
+      "model": "BaroZ-100"
+    }
+  },
+  {
+    "sensor_id": "SN-001",
+    "timestamp": "2024-01-20T10:05:00Z",
+    "reading": 23.8,
+    "unit": "celcius",
+    "location": "Warehouse-A",
+    "status": "active",
+    "metadata": {
+      "firmware": "v1.2",
+      "model": "TempX-2000"
+    }
+  },
+  {
+    "sensor_id": "SN-002",
+    "timestamp": "2024-01-20T10:05:05Z",
+    "reading": 44.9,
+    "unit": "humidity_percent",
+    "location": "Warehouse-A",
+    "status": "active",
+    "metadata": {
+      "firmware": "v1.2",
+      "model": "HumidY-500"
+    }
+  },
+  {
+    "sensor_id": "SN-004",
+    "timestamp": "2024-01-20T10:10:00Z",
+    "reading": 0.0,
+    "unit": "motion_binary",
+    "location": "Entrance-Main",
+    "status": "idle",
+    "metadata": {
+      "firmware": "v2.0",
+      "model": "MotionSense-Pro"
+    }
+  },
+  {
+    "sensor_id": "SN-004",
+    "timestamp": "2024-01-20T10:15:30Z",
+    "reading": 1.0,
+    "unit": "motion_binary",
+    "location": "Entrance-Main",
+    "status": "triggered",
+    "metadata": {
+      "firmware": "v2.0",
+      "model": "MotionSense-Pro"
+    }
+  },
+  {
+    "sensor_id": "SN-001",
+    "timestamp": "2024-01-20T10:10:00Z",
+    "reading": 24.1,
+    "unit": "celcius",
+    "location": "Warehouse-A",
+    "status": "warning",
+    "metadata": {
+      "firmware": "v1.2",
+      "model": "TempX-2000"
+    }
+  }
+]

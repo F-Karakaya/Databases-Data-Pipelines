@@ -1,0 +1,78 @@
+{
+    "event_type_distribution": [
+        {
+            "event_type": "view_item",
+            "count": 8
+        },
+        {
+            "event_type": "purchase",
+            "count": 2
+        },
+        {
+            "event_type": "add_to_cart",
+            "count": 2
+        },
+        {
+            "event_type": "search",
+            "count": 1
+        },
+        {
+            "event_type": "login",
+            "count": 1
+        }
+    ],
+    "user_engagement_metrics": [
+        {
+            "user_id": "USR-602",
+            "items_viewed": 2,
+            "total_duration_minutes": 1.75
+        },
+        {
+            "user_id": "USR-303",
+            "items_viewed": 1,
+            "total_duration_minutes": 2.0
+        },
+        {
+            "user_id": "USR-505",
+            "items_viewed": 2,
+            "total_duration_minutes": 0.53
+        },
+        {
+            "user_id": "USR-888",
+            "items_viewed": 2,
+            "total_duration_minutes": 0.92
+        },
+        {
+            "user_id": "USR-710",
+            "items_viewed": 1,
+            "total_duration_minutes": 0.17
+        },
+        {
+            "user_id": "USR-999",
+            "items_viewed": 1,
+            "total_duration_minutes": 0.25
+        }
+    ],
+    "category_performance": [
+        {
+            "category": "Electronics",
+            "unique_user_count": 2,
+            "total_interactions": 3
+        },
+        {
+            "category": "Books",
+            "unique_user_count": 1,
+            "total_interactions": 2
+        },
+        {
+            "category": "Clothing",
+            "unique_user_count": 1,
+            "total_interactions": 2
+        },
+        {
+            "category": "Automotive",
+            "unique_user_count": 1,
+            "total_interactions": 2
+        }
+    ]
+}

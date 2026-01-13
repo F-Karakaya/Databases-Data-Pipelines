@@ -1,0 +1,14 @@
+pandas==2.2.0
+numpy==1.26.3
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+pymongo==4.6.1
+sentence-transformers==2.3.1
+qdrant-client==1.7.3
+chromadb==0.4.22
+scikit-learn==1.4.0
+python-dotenv==1.0.1
+faker==22.5.1
+torch==2.1.2 --index-url https://download.pytorch.org/whl/cu121
+transformers==4.37.0
+tqdm==4.66.1
