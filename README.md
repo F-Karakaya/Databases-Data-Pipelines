@@ -140,12 +140,13 @@ Read more in [Recommendation Logic](docs/recommendation_logic.md).
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-Furkan Karakaya
-AI and Computer Vision Engineer
+**Furkan Karakaya**  
+AI & Computer Vision Engineer  
 
-📧 [se.furkankarakaya@gmail.com](mailto:se.furkankarakaya@gmail.com)
+📧 se.furkankarakaya@gmail.com  
 
-## ⭐ If this project helps your workflow or research, consider starring the repository.
 ---
+
+⭐ If this project helps your workflow or research, consider starring the repository.
