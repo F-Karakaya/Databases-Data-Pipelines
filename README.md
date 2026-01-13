@@ -140,7 +140,7 @@ Read more in [Recommendation Logic](docs/recommendation_logic.md).
 
 ---
 
-## author 👨‍💻 Author
+## 👨‍💻 Author
 
 Furkan Karakaya
 AI and Computer Vision Engineer
