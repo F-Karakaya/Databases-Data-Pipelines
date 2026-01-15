@@ -15,7 +15,7 @@ A production-grade repository demonstrating a robust **Polyglot Persistence** ar
 
 The system is designed to handle diverse data types (Structured, Semi-Structured, Unstructured) optimally.
 
-![Workflow Diagram](outputs/workflow_diagram.png)
+![Workflow Diagram](outputs/workflows_diagram.png)
 
 ### Core Components
 1.  **Ingestion Layer**: Python scripts ensuring data quality before storage.
